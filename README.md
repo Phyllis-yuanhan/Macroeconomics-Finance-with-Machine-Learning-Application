@@ -2,13 +2,13 @@ This  project aimed to predict a country's Corruption Perception Index (CPI) usi
 
 Three machine learning models were utilized to predict the CPI, using Mean Squared Error (MSE) and R-squared (R^2) values for accuracy assessment. The models and their corresponding performance metrics are as follows:
 
-**Lasso Regression**
+-**Lasso Regression**
 - Mean Squared Error (MSE): 77.65
 - R-squared (R^2): 0.84
-**Decision Tree**
+-**Decision Tree**
 - Mean Squared Error (MSE): 93.93
 - R-squared (R^2): 0.80
-**Random Forest**
+-**Random Forest**
 - Mean Squared Error (MSE): 82.46
 - R-squared (R^2): 0.83
 
