@@ -5,9 +5,11 @@ Three machine learning models were utilized to predict the CPI, using Mean Squar
 -**Lasso Regression**
 - Mean Squared Error (MSE): 77.65
 - R-squared (R^2): 0.84
+
 -**Decision Tree**
 - Mean Squared Error (MSE): 93.93
 - R-squared (R^2): 0.80
+
 -**Random Forest**
 - Mean Squared Error (MSE): 82.46
 - R-squared (R^2): 0.83
