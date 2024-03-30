@@ -1,4 +1,4 @@
-This  project aimed to predict a country's Corruption Perception Index (CPI) using machine learning. Analyzing data from 2012 to 2020 across 196 countries, the study found that legal system & property rights, GNI per capita, and education levels were significant predictors of CPI. 
+This  project aimed to predict a country's Corruption Perception Index (CPI) using machine learning. Analyzing data from 2012 to 2020 across 196 countries, the study found that **legal system & property rights**, **GNI per capita**, and **education levels** were significant predictors of CPI. 
 
 Three machine learning models were utilized to predict the CPI, using Mean Squared Error (MSE) and R-squared (R^2) values for accuracy assessment. The models and their corresponding performance metrics are as follows:
 
